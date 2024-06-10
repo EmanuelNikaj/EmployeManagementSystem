@@ -1,0 +1,38 @@
+C:\Users\emanu\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.exe.config
+C:\Users\emanu\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.exe
+C:\Users\emanu\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.pdb
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Form1.resources
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Home.resources
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Properties.Resources.resources
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.csproj.GenerateResource.cache
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.exe
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.pdb
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.EmployeeDesign.resources
+C:\Users\emanu\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.View.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\bin\Debug\Employee MS.exe.config
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\bin\Debug\Employee MS.exe
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.EmployeeDesign.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.Form1.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.Home.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.Properties.Resources.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.View.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.csproj.GenerateResource.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.exe
+C:\Users\emanu\OneDrive\Υπολογιστής\προγραμματισμος IEK\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.pdb
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\bin\Debug\Employee MS.exe.config
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\bin\Debug\Employee MS.exe
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\bin\Debug\Employee MS.pdb
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.csproj.AssemblyReference.cache
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.EmployeeDesign.resources
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.Form1.resources
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.Home.resources
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.Properties.Resources.resources
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee_MS.View.resources
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.csproj.GenerateResource.cache
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.csproj.CoreCompileInputs.cache
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.exe
+D:\iek360\εξαμηνο δ\πακτικη εφαρμογη στην ειδικοτητα\Employee Managament System\obj\Debug\Employee MS.pdb

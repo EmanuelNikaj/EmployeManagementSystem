@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\LocalDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LocalDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\View.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\View.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee MS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee MS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.Designer.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\View.Designer.cs",
+              "RelativeDocumentMoniker": "View.Designer.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\View.Designer.cs",
+              "RelativeToolTip": "View.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:07.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\View.cs",
+              "RelativeDocumentMoniker": "View.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\View.cs",
+              "RelativeToolTip": "View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:06.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:06.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalDB.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\LocalDB.cs",
+              "RelativeDocumentMoniker": "LocalDB.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\LocalDB.cs",
+              "RelativeToolTip": "LocalDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:03.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:37:02.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.resx",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.resx",
+              "RelativeDocumentMoniker": "Employee.resx",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.resx",
+              "RelativeToolTip": "Employee.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-14T16:37:00.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.Designer.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.Designer.cs",
+              "RelativeDocumentMoniker": "Employee.Designer.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.Designer.cs",
+              "RelativeToolTip": "Employee.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:36:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:36:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee MS.csproj",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee MS.csproj",
+              "RelativeDocumentMoniker": "Employee MS.csproj",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Employee MS.csproj",
+              "RelativeToolTip": "Employee MS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T16:36:57.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Home.Designer.cs",
+              "ToolTip": "D:\\iek360\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF \u03B4\\\u03C0\u03B1\u03BA\u03C4\u03B9\u03BA\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03B7 \u03C3\u03C4\u03B7\u03BD \u03B5\u03B9\u03B4\u03B9\u03BA\u03BF\u03C4\u03B7\u03C4\u03B1\\Employee Managament System\\Home.Designer.cs",
+              "RelativeToolTip": "Home.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:36:45.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
